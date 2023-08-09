@@ -6,5 +6,5 @@ zlib/1.2.11
 cmake
 
 [options]
-poco:shared=True
-openssl:shared=True
+poco/*:shared=True
+openssl/*:shared=True
