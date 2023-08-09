@@ -6,5 +6,5 @@ Poco/1.9.0@pocoproject/stable
 cmake
 
 [options]
-Boost:shared=False
-Poco:shared=False
+Boost:shared=True
+Poco:shared=True
