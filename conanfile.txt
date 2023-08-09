@@ -1,13 +1,8 @@
 [requires]
-poco/1.9.4
 zlib/1.2.13
-bzip2/1.0.8
 
 [generators]
 cmake
-CMakeDeps
-CMakeToolchain
 
 [options]
-poco/*:shared=True
 openssl/*:shared=True
