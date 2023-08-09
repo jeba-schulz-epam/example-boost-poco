@@ -1,5 +1,5 @@
 [requires]
-boost/1.66.0
+boost/1.60.1
 poco/1.9.0
 
 [generators]
