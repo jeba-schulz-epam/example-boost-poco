@@ -1,8 +1,10 @@
 [requires]
 poco/1.9.4
+zlib/1.2.13
 
 [generators]
-cmake
+CMakeToolchain
+CMakeDeps
 
 [options]
 poco/*:shared=True
