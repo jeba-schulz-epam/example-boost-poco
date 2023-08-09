@@ -1,11 +1,11 @@
 [requires]
-boost/1.66.0@conan/stable
-Poco/1.9.0@pocoproject/stable
+poco/1.9.4
+zlib/1.2.11
 
 [generators]
 cmake
 
 [options]
 boost/*:option=True
-poco/*:option=True
+openssl/*:option=True
 
