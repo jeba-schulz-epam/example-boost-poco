@@ -6,6 +6,6 @@ zlib/1.2.13
 cmake
 
 [options]
-boost/*:option=True
+boost/1.75.0:option=True
 openssl/*:option=True
 
