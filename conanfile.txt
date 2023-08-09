@@ -6,5 +6,6 @@ poco/1.9.0
 cmake
 
 [options]
-boost:shared=True
-poco:shared=True
+boost/*:option=True
+poco/*:option=True
+
